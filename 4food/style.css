@@ -1,21 +1,7 @@
-.general-container{
+.general-container {
     display: flex;
     grid-template-rows: 1fr 1fr 1fr;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 div.page5-menu {
     background-color: #6b4732;
